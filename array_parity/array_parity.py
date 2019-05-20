@@ -26,3 +26,9 @@ class Solution(object):
 
 if __name__ == "__main__":
     print(Solution.sortArrayByParity(Solution, [3, 1, 2, 4]))
+    print(Solution.sortArrayByParity(Solution, []))
+    print(Solution.sortArrayByParity(Solution, [1]))
+    print(Solution.sortArrayByParity(Solution, [2]))
+    print(Solution.sortArrayByParity(Solution, [2, 4]))
+    print(Solution.sortArrayByParity(Solution, [1, 11, 13]))
+    print(Solution.sortArrayByParity(Solution, [5, 45, 20, 19, 99, 2135484]))
