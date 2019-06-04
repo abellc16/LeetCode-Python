@@ -2,7 +2,6 @@
 # Filename: morse_code.py
 # URL: https://leetcode.com/problems/height-checker/
 
-# NOT SOLVED AS OF 6/3/2019 #
 
 class Solution(object):
     def heightChecker(self, heights):
