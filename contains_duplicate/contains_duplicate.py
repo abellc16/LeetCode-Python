@@ -1,5 +1,5 @@
 # Author: Camby Abell
-# Filename: morse_code.py
+# Filename: contains_duplicate.py
 # URL: https://leetcode.com/problems/contains-duplicate/
 
 class Solution(object):

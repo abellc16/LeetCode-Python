@@ -1,5 +1,5 @@
 # Author: Camby Abell
-# Filename: morse_code.py
+# Filename: arrange_coins.py
 # URL: https://leetcode.com/problems/arranging-coins/
 
 

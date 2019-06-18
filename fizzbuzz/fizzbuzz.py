@@ -1,5 +1,5 @@
 # Author: Camby Abell
-# Filename: morse_code.py
+# Filename: fizzbuzz.py
 # URL: https://leetcode.com/problems/fizz-buzz/
 
 class Solution(object):
